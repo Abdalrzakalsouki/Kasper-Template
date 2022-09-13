@@ -1,4 +1,4 @@
 # Kasper-Template
 
-HTML and CSS template
+HTML, CSS, and JS template
 Hosting Link: https://kasper.onrender.com
