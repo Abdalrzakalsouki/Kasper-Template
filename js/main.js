@@ -107,7 +107,7 @@ function getSpanArr() {
       span[2][0].style.width = "55%";
       span[3][0].setAttribute("data-progress", "84%");
       span[3][0].style.width = "84%";
-    }, 800);
+    }, 600);
   });
 }
 
