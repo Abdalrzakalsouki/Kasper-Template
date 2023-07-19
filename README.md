@@ -36,7 +36,8 @@ Live Site URL: (https://kasper.onrender.com)
 
 ## Credit
 
-[Tommy Ngo](https://www.behance.net/gallery/20230443 Kasper-Free-Business-One-Page-PSD-Template)
+[Tommy Ngo]
+(https://www.behance.net/gallery/20230443Kasper-Free-Business-One-Page-PSD-Template)
 
 ## author
 
